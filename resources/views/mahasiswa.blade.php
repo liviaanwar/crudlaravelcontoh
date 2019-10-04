@@ -4,7 +4,8 @@
 </head>
 <body>
  
-	<h2>malasngoding.com</h2>
+	<h2>header</h2>
+	<h2>header 3</h2>
 	<h3>Data Mahasiswa</h3>
  
 	<a href="/mahasiswa/tambah"> + Tambah Mahasiswa Baru</a>
